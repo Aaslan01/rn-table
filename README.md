@@ -1,7 +1,7 @@
-## WappsnTable v1.0
+## rn-table
 
 ### Intro
-WappsnTable is a flexible and intuitive way to wrap data like `<table>` does in HTML.
+rn-table is a flexible and intuitive way to wrap data like `<table>` does in HTML.
 
 ### Usage example
 
