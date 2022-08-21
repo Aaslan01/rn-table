@@ -1,5 +1,5 @@
 {
-  "name": "rn-table",
+  "name": "@florinchristian.dev/rn-table",
   "version": "0.0.1-beta.0",
   "description": "rn-table is a flexible and intuitive way to wrap data like <table> does in HTML.",
   "main": "index.js",
