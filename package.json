@@ -1,0 +1,25 @@
+{
+  "name": "rn-table",
+  "version": "1.0.0",
+  "description": "rn-table is a flexible and intuitive way to wrap data like <table> does in HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florinchristian/rn-table.git"
+  },
+  "keywords": [
+    "react native table",
+    "react table",
+    "react-native-table",
+    "rn-table"
+  ],
+  "author": "florinchristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florinchristian/rn-table/issues"
+  },
+  "homepage": "https://github.com/florinchristian/rn-table#readme"
+}
