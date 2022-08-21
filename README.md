@@ -91,8 +91,8 @@ const App = () => {
       <th>fitWidth: false</th>
       <th>fitWidth: true</th>
      </tr>
-    <td valign="top"><img src="https://github.com/florinchristian/WappsnTable/blob/master/preview-1.gif" width="300"></td>
-    <td valign="top"><img src="https://github.com/florinchristian/WappsnTable/blob/master/preview-2.png" width="300"></td>
+    <td valign="top"><img src="https://github.com/florinchristian/rn-table/blob/master/preview-1.gif" width="300"></td>
+    <td valign="top"><img src="https://github.com/florinchristian/rn-table/blob/master/preview-2.png" width="300"></td>
   </tr>
 </table>
 
