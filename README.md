@@ -6,7 +6,7 @@ rn-table is a flexible and intuitive way to wrap data like `<table>` does in HTM
 ### Usage example
 
 ```js
-import Table from "./Table";
+import { Table } from "@florinchristian.dev/rn-table";
 import dataWrapping from "./dataWrapping";
 
 const App = () => {

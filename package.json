@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/florinchristian/rn-table/issues"
   },
-  "homepage": "https://github.com/florinchristian/rn-table#readme",
-  "dependencies": {
-    "@react-native-community/checkbox": "^0.5.12"
-  }
+  "homepage": "https://github.com/florinchristian/rn-table#readme"
 }
