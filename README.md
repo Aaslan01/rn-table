@@ -151,8 +151,7 @@ const App = () => {
     },
   };
   ```
-- `uniqueKey`
-  - `uniqueKey` is the exact path to the property in the data model that identifies the object.
+- `uniqueKey` : is the exact path to the property in the data model that identifies the object.
   For instance:
   ```js
   // the uniqueKey for the data model below is 'id'
@@ -164,13 +163,16 @@ const App = () => {
       Crimes: 69,
   }
   ```
-- `onCheck`
-  - `onCheck` is the method called every time an item is selected.
+- `onCheck` : is the method called every time an item is selected.
   ```js
   onCheck={selected => {
     // selected is an array of the selected items (their unique keys)
   }}
   ```
   
-### The `fitWidth` prop
-This prop tells the table whether to fit the device's width or to enlarge as much as needed.
+### Optional props
+- `fitWidth` : this prop tells the table whether to fit the device's width or to enlarge as much as needed.
+- `headerStyle` : this prop contains a `StyleSheet` object used to apply a custom style to the header.
+- `oddRowStyle` : this prop contains a `StyleSheet` object used to apply a custom style to the odd-indexed rows.
+- `evenRowStyle` : this prop contains a `StyleSheet` object used to apply a custom style to the even-indexed rows.
+- `containerStyle` : this prop contains a `StyleSheet` object used to apply a custom style to the view containing the rows.
