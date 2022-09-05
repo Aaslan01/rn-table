@@ -1,5 +1,7 @@
 ## rn-table
 
+[![Rate this package](https://badges.openbase.com/js/rating/@florinchristian.dev/rn-table.svg?token=sEPLuDIrp2j/K0X9sT+TKmf/FPQ4E4VjneE+GNhs8bg=)](https://openbase.com/js/@florinchristian.dev/rn-table?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
+
 ### Intro
 rn-table is a flexible and intuitive way to wrap data like `<table>` does in HTML.
 
