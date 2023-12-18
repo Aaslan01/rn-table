@@ -61,6 +61,7 @@ const Header = ({
   return (
     <View style={[{
       flexDirection: 'row',
+      height: 50,
       width: fitWidth ? WIDTH : 'auto'
     }, style]}>
       <View style={{
@@ -102,7 +103,7 @@ const Row = ({
   return (
     <View style={[{
       flexDirection: 'row',
-      height: 50,
+      paddingVertical:4,
       width: fitWidth ? WIDTH : 'auto',
     }, style]}>
       <View style={{
