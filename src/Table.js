@@ -61,7 +61,6 @@ const Header = ({
   return (
     <View style={[{
       flexDirection: 'row',
-      height: 50,
       width: fitWidth ? WIDTH : 'auto'
     }, style]}>
       <View style={{
